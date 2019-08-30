@@ -1,0 +1,4 @@
+# How often the auto save task should run
+save-every-x-minutes: 15
+# Using async gives better performance but may cause problems
+async: false
